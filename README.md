@@ -10,6 +10,25 @@ skills/<skill-name>/scripts/   # optional helper scripts
 install/                       # scripts that link skills into each tool's skills folder
 ```
 
+## Skills
+
+Written for local models in Open WebUI on the NAS (Workspace -> Skills) and also usable in Claude Code, OpenHands and AllHands.
+
+| Skill | Use it for |
+|---|---|
+| `web-research` | Current or changing facts: search, read pages, cite sources |
+| `deep-research` | Broad questions needing several searches and a sourced report |
+| `honest-answers` | Say "I don't know" instead of inventing facts, sources or versions |
+| `read-documentation` | Answering only from a pasted document, manual or changelog |
+| `document-analysis` | Reading, summarizing and questioning attached documents |
+| `document-writing` | Reports, emails, essays and READMEs with clear structure |
+| `data-analysis` | Tables, CSV and numbers: inspect, compute with code, sanity-check |
+| `frontend-design` | Single-file HTML/CSS/JS pages with real design choices |
+| `code-review` | Spec, correctness, security and standards review with severity labels |
+| `compact-conversation` | The `/compact` equivalent: a lossless handoff summary for a new chat |
+
+Note: Claude Code ships a built-in `/code-review` command, so the `code-review` skill name may collide with it there. Rename the folder and the `name:` line if it does.
+
 ## Adding a skill
 
 1. Create `skills/<skill-name>/SKILL.md`:
