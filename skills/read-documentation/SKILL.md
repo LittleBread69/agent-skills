@@ -1,6 +1,6 @@
 ---
 name: read-documentation
-description: Use when answering questions from a pasted document, manual, changelog or long text: use only the text and say when it is not stated.
+description: "Use when answering questions from a pasted document, manual, changelog or long text: use only the text and say when it is not stated."
 ---
 
 # Read Documentation

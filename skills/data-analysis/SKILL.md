@@ -1,6 +1,6 @@
 ---
 name: data-analysis
-description: Use when analyzing a table, CSV, spreadsheet or numbers: inspect the data, compute with code, check results, report plainly.
+description: "Use when analyzing a table, CSV, spreadsheet or numbers: inspect the data, compute with code, check results, report plainly."
 ---
 
 # Data Analysis

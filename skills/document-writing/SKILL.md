@@ -1,6 +1,6 @@
 ---
 name: document-writing
-description: Use when writing reports, emails, essays, summaries, README files or other documents: clear structure, plain language, right length.
+description: "Use when writing reports, emails, essays, summaries, README files or other documents: clear structure, plain language, right length."
 ---
 
 # Document Writing

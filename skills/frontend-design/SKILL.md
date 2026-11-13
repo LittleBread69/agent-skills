@@ -1,6 +1,6 @@
 ---
 name: frontend-design
-description: Use when building a web page, UI, landing page or HTML/CSS/JS component: clean layout, real design choices, working code in one file.
+description: "Use when building a web page, UI, landing page or HTML/CSS/JS component: clean layout, real design choices, working code in one file."
 ---
 
 # Frontend Design

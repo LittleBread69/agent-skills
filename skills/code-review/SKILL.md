@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: Use when writing, reviewing or debugging code (Python, C++, C#, JavaScript and others), or when the user pastes code, a diff or a pull request: checks the spec, correctness, edge cases, language traps, standards and security, and reports findings by severity.
+description: "Use when writing, reviewing or debugging code (Python, C++, C#, JavaScript and others), or when the user pastes code, a diff or a pull request: checks the spec, correctness, edge cases, language traps, standards and security, and reports findings by severity."
 ---
 
 # Code Review

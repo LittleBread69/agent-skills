@@ -1,6 +1,6 @@
 ---
 name: honest-answers
-description: Use for factual questions: say "I don't know" instead of inventing sources, versions, dates or papers.
+description: "Use for factual questions: say \"I don't know\" instead of inventing sources, versions, dates or papers."
 ---
 
 # Honest Answers

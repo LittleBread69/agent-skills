@@ -1,6 +1,6 @@
 ---
 name: deep-research
-description: Use for broad research questions, comparisons or reports that need several searches and a structured, sourced write-up.
+description: "Use for broad research questions, comparisons or reports that need several searches and a structured, sourced write-up."
 ---
 
 # Deep Research
