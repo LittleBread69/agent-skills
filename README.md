@@ -19,7 +19,8 @@ Written for local models in Open WebUI and OpenHands on the NAS and also usable 
 | `web-research` | Current or changing facts: search, read pages, cite sources |
 | `deep-research` | Broad questions needing several searches and a sourced report |
 | `honest-answers` | Say "I don't know" instead of inventing facts, sources or versions |
-| `read-documentation` | Answering only from docs, a README, a manual or a changelog (pasted or in the repo), checking versions |
+| `read-documentation` | Answering only from a pasted document, manual or changelog |
+| `read-repo-documentation` | The same for coding agents (OpenHands): also uses docs in the repository and checks the installed version |
 | `document-analysis` | Reading, summarizing and questioning attached documents |
 | `document-writing` | Reports, emails, essays and READMEs with clear structure |
 | `data-analysis` | Tables, CSV and numbers: inspect, compute with code, sanity-check |
