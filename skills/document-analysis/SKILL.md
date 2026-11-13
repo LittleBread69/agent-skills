@@ -1,6 +1,6 @@
 ---
 name: document-analysis
-description: Use when the user attaches or pastes a document (PDF, Word, slides, spreadsheet, contract, paper, report) to read, summarize, analyze or question.
+description: "Use when the user attaches or pastes a document (PDF, Word, slides, spreadsheet, contract, paper, report) to read, summarize, analyze or question."
 ---
 
 # Document Analysis

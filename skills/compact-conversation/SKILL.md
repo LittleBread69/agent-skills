@@ -1,6 +1,6 @@
 ---
 name: compact-conversation
-description: Use when the user says compact, /compact, summarize this chat, the conversation is getting long or slow, or wants to continue in a new chat without losing context.
+description: "Use when the user says compact, /compact, summarize this chat, the conversation is getting long or slow, or wants to continue in a new chat without losing context."
 ---
 
 # Compact Conversation

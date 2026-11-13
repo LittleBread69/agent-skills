@@ -1,6 +1,6 @@
 ---
 name: web-research
-description: Use for any question about current, recent or changing facts: search the web with the search tool, read pages, cite sources.
+description: "Use for any question about current, recent or changing facts: search the web with the search tool, read pages, cite sources."
 ---
 
 # Web Research
